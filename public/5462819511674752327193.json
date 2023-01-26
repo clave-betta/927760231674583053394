@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "105702461477",
+    "project_id": "mango-creative",
+    "storage_bucket": "mango-creative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105702461477:android:b6e34e1abefc411f9fafcc",
+        "android_client_info": {
+          "package_name": "com.mango.tes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105702461477-4kgvvj7uuniq0q89ago3ehuv925niug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOi7b_7L6nQFH2YNz-BgaSwu8tmKEVAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105702461477-4kgvvj7uuniq0q89ago3ehuv925niug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2213856839639612~1504062477"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105702461477:android:c3ed65c8347c8fee9fafcc",
+        "android_client_info": {
+          "package_name": "com.mangocreative.latolatogamepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105702461477-4kgvvj7uuniq0q89ago3ehuv925niug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOi7b_7L6nQFH2YNz-BgaSwu8tmKEVAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105702461477-4kgvvj7uuniq0q89ago3ehuv925niug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2213856839639612~4997556093"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105702461477:android:e019db0f727b939e9fafcc",
+        "android_client_info": {
+          "package_name": "com.mangocreative.modmcpechoochoocharlie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105702461477-4kgvvj7uuniq0q89ago3ehuv925niug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOi7b_7L6nQFH2YNz-BgaSwu8tmKEVAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105702461477-4kgvvj7uuniq0q89ago3ehuv925niug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2213856839639612~7406022195"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105702461477:android:80408732386d45df9fafcc",
+        "android_client_info": {
+          "package_name": "com.mangocreative.sakuraschooltipssimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105702461477-4kgvvj7uuniq0q89ago3ehuv925niug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOi7b_7L6nQFH2YNz-BgaSwu8tmKEVAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105702461477-4kgvvj7uuniq0q89ago3ehuv925niug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2213856839639612~8883301533"
+    }
+  ],
+  "configuration_version": "1"
+}

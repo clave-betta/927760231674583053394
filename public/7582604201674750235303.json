@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "1021052673973",
+    "project_id": "fiyo-studio",
+    "storage_bucket": "fiyo-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021052673973:android:9d39e18b3da4183e2183fc",
+        "android_client_info": {
+          "package_name": "com.fiyostudio.prankcallwednesday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021052673973-kmvm18vo4sfiv7gtqj91n1f544o4fndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlx0AQnY7ObcdJA9wUsmUl4FoKP1sDa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021052673973-kmvm18vo4sfiv7gtqj91n1f544o4fndt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2213856839639612~4134392999"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021052673973:android:f4b8859ad0e690f82183fc",
+        "android_client_info": {
+          "package_name": "com.fiyostudio.propsidsakuraschoolsimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021052673973-kmvm18vo4sfiv7gtqj91n1f544o4fndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlx0AQnY7ObcdJA9wUsmUl4FoKP1sDa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021052673973-kmvm18vo4sfiv7gtqj91n1f544o4fndt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2213856839639612~7296416371"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021052673973:android:8fff37a19cb6b3fc2183fc",
+        "android_client_info": {
+          "package_name": "com.fiyostudio.tocalifeadvice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021052673973-kmvm18vo4sfiv7gtqj91n1f544o4fndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlx0AQnY7ObcdJA9wUsmUl4FoKP1sDa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021052673973-kmvm18vo4sfiv7gtqj91n1f544o4fndt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2213856839639612~5843039374"
+    }
+  ],
+  "configuration_version": "1"
+}

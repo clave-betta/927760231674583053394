@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "346739730332",
+    "project_id": "jangki-official-f6abe",
+    "storage_bucket": "jangki-official-f6abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346739730332:android:8427d84b5c03c5f4590a59",
+        "android_client_info": {
+          "package_name": "coim.est.set.setse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346739730332-0387l3clm157cqqgd29nrn256kr5snep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWO1XYdPJGwClZKNV00_8s3kWTDzAS9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346739730332-0387l3clm157cqqgd29nrn256kr5snep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9951345084950287~3335531193"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346739730332:android:d233a2a0d7a5f46f590a59",
+        "android_client_info": {
+          "package_name": "com.jangkiofficial.spidermanmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346739730332-0387l3clm157cqqgd29nrn256kr5snep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWO1XYdPJGwClZKNV00_8s3kWTDzAS9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346739730332-0387l3clm157cqqgd29nrn256kr5snep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9951345084950287~5833239009"
+    }
+  ],
+  "configuration_version": "1"
+}
